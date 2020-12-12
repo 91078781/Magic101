@@ -1,3 +1,5 @@
 # Magic101
-This was a the code along for Advanced Java Topics w/h Android Studio 2020-2021.
-This assignment was started 8/17/2020 and was worked on in class and as homework.
+*Class Name: dvanced Java Topics w/h Android Studio 2020-2021
+* Dates worked on: This assignment was started 8/17/2020 
+* Description of Project: This began as a the code along and was finished as homework. It has 
+* Partners: Ms. Rioux
